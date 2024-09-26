@@ -1,0 +1,5 @@
+nc: 5
+names: ['mint', 'chocolate', 'vanilla', 'jamoca almond fudge', 'strawberry']
+path: .
+train: ./data/images/train
+val: ./data/images/val 
